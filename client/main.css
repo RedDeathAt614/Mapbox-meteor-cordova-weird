@@ -1,0 +1,9 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.map-container{
+  width: 500px;
+  height: 500px;
+}
